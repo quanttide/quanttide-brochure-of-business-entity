@@ -1,0 +1,24 @@
+version: 1
+project:
+  title: 量潮科技宣传册
+  description: 量潮科技企业宣传册 - 面向客户和潜在客户的业务介绍
+  keywords: [量潮科技, 宣传册, 企业介绍]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+
+    - title: 量潮数据
+      children:
+        - file: qtdata/index.md
+        - file: qtdata/who.md
+        - file: qtdata/when.md
+        - file: qtdata/how.md
+        - file: qtdata/what.md
+    - title: 量潮课堂
+      children:
+        - file: qtclass/index.md
+        - file: qtclass/case/vibe_coding.md
+site:
+  template: book-theme
