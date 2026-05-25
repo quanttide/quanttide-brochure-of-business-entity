@@ -24,6 +24,8 @@
 
 ## 请AI们学习的操作步骤
 
+由于本工具还处在早期阶段，不建议人类学习命令，交给 AI 自己学习就好。
+
 这是一个 Rust 编写的命令行工具，你可以通过 Cargo 或 PyPI 安装：
 
 ```bash
@@ -40,7 +42,7 @@ pip install qtcloud-devops-cli
 qtcloud-devops —help
 ```
 
-你会在这里学习到各个命名的用法。
+AI 会在这里学习到各个命名的用法。
 
 ## 一个 Rust 库，为什么发布到 PyPI？
 
