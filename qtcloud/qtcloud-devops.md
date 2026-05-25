@@ -22,7 +22,7 @@
 
 我们将发布流程封装成了 release 命令，随后又将基于 git submodule 的单仓管理实践封装成 code 命令。在完整的 DevOps 理论体系中，有 Plan、Code、Build、Test、Release、Deploy、Observe 和 Monitor 八个环节。未来，相关 Skill 都将沿着这条路线，逐步沉淀为对应的命令。
 
-## 安装与使用
+## 请AI们学习的操作步骤
 
 这是一个 Rust 编写的命令行工具，你可以通过 Cargo 或 PyPI 安装：
 
@@ -39,6 +39,8 @@ pip install qtcloud-devops-cli
 ```bash
 qtcloud-devops —help
 ```
+
+你会在这里学习到各个命名的用法。
 
 ## 一个 Rust 库，为什么发布到 PyPI？
 
