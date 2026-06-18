@@ -8,10 +8,15 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
-
+    - title: 公司简介
+      children:
+        - file: about.md
+        - file: about-company.md
+        - file: about-culture.md
     - title: 量潮数据
       children:
         - file: qtdata/index.md
+        - file: qtdata/research-data-service.md
         - file: qtdata/who.md
         - file: qtdata/when.md
         - file: qtdata/how.md
@@ -19,6 +24,10 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
+        - file: qtclass/services.md
         - file: qtclass/case/vibe_coding.md
+    - title: 客户案例
+      children:
+        - file: cases/zstu-big-data-program.md
 site:
   template: book-theme
