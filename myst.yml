@@ -28,6 +28,6 @@ project:
         - file: qtclass/case/vibe_coding.md
     - title: 客户案例
       children:
-        - file: cases/zstu-big-data-program.md
+        - file: qtclass/case-zstu-big-data.md
 site:
   template: book-theme
