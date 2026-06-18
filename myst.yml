@@ -11,15 +11,17 @@ project:
     - title: 公司简介
       children:
         - file: intro/index.md
-        - file: intro/about-culture.md
+        - file: intro/culture.md
     - title: 量潮数据
       children:
         - file: qtdata/index.md
         - file: qtdata/research-data-service.md
         - file: qtdata/who.md
         - file: qtdata/when.md
-        - file: qtdata/how.md
         - file: qtdata/what.md
+    - title: 量潮咨询
+      children:
+        - file: qtconsult/how.md
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
