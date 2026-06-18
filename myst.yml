@@ -10,8 +10,7 @@ project:
     - file: index.md
     - title: 公司简介
       children:
-        - file: intro/about.md
-        - file: intro/about-company.md
+        - file: intro/index.md
         - file: intro/about-culture.md
     - title: 量潮数据
       children:
