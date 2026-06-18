@@ -15,7 +15,6 @@ project:
     - title: 量潮数据
       children:
         - file: qtdata/index.md
-        - file: qtdata/research-data-service.md
         - file: qtdata/who.md
         - file: qtdata/when.md
         - file: qtdata/what.md
