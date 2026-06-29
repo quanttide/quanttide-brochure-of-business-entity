@@ -24,7 +24,5 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
-        - file: qtclass/vibe-coding.md
-        - file: qtclass/big-data.md
 site:
   template: book-theme
