@@ -20,6 +20,7 @@ project:
         - file: qtdata/what.md
     - title: 量潮咨询
       children:
+        - file: qtconsult/what.md
         - file: qtconsult/how.md
     - title: 量潮课堂
       children:
