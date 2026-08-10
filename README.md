@@ -7,5 +7,4 @@
 - **公司简介**：intro/index.md, intro/culture.md
 - **量潮数据**：qtdata/（数据科研服务、who、when、what）
 - **量潮咨询**：qtconsult/（咨询服务）
-- **量潮课堂**：qtclass/（课程服务、案例）
-- **客户案例**：qtclass/case-zstu-big-data.md
+- **量潮课堂**：qtclass/（课程、服务）
