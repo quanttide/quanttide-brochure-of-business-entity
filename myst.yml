@@ -26,5 +26,14 @@ project:
       children:
         - file: qtclass/courses/production-intership.md
         - file: qtclass/services/one-to-one.md
+    - title: 量潮云
+      children:
+        - file: qtcloud/qtcloud-devops.md
+    - title: 量潮招聘
+      children:
+        - file: qtrecurit/assessment.md
+        - file: qtrecurit/interview.md
+        - file: qtrecurit/tech-sequence.md
+        - file: qtrecurit/anti-cheating.md
 site:
   template: book-theme
