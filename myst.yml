@@ -31,7 +31,6 @@ project:
         - file: qtcloud/qtcloud-devops.md
     - title: 量潮招聘
       children:
-        - file: qtrecurit/assessment.md
         - file: qtrecurit/interview.md
         - file: qtrecurit/tech-sequence.md
         - file: qtrecurit/anti-cheating.md
