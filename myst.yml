@@ -24,8 +24,9 @@ project:
         - file: qtconsult/how.md
     - title: 量潮课堂
       children:
-        - file: qtclass/courses/production-intership.md
-        - file: qtclass/services/one-to-one.md
+        - file: qtclass/course/index.md
+        - file: qtclass/course/production-intership.md
+        - file: qtclass/learn/one-to-one.md
     - title: 量潮云
       children:
         - file: qtcloud/qtcloud-devops.md
