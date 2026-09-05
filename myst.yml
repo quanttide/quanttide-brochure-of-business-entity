@@ -27,6 +27,7 @@ project:
         - file: qtclass/course/index.md
         - file: qtclass/course/production-intership.md
         - file: qtclass/learn/one-to-one.md
+        - file: qtclass/learn/free.md
     - title: 量潮云
       children:
         - file: qtcloud/qtcloud-devops.md
