@@ -1,0 +1,1 @@
+- 移除 qtrecurit 招聘宣传三篇：迁移至联盟宣传册仓（quanttide-brochure-of-innovation-alliance）
