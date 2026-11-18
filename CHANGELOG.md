@@ -1,4 +1,4 @@
-- 新增 qtclass/index.md（重写）：面向零基础读者的入门介绍——从课堂任务到真实工作的逐渐开放路径、学员独立上线的《量潮大亨》与氛围编程标准课程招生、适合人群、报名邮箱 class@quanttide.cn；恢复 myst.yml 章节与 README 目录
+- 新增 qtclass/index.md（重写）：面向零基础读者的入门介绍——从课堂任务到真实工作的逐渐开放路径、学员独立完成的「摆摊游戏」与氛围编程标准课程招生、适合人群、报名邮箱 class@quanttide.cn；恢复 myst.yml 章节与 README 目录
 - 移除 qtclass/ 板块（合作方式篇）：最后一篇迁至 profile/qtclass/business/index.md，myst.yml 移除「量潮课堂」章节、README 移除目录行；宣传册不再设课堂板块
 - qtclass/business.md 更名为 index.md：课程档案全部归口 profile 后，合作方式成为宣传册课堂板块唯一入口，补齐板块 index.md；myst.yml 与 README 目录同步
 - 移除 qtclass/course/practise_ladder.md、production-intership.md：原样迁入 profile/qtclass/course/，myst.yml 移除导航；宣传册 qtclass 仅保留 business.md
