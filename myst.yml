@@ -22,6 +22,9 @@ project:
       children:
         - file: qtconsult/what.md
         - file: qtconsult/how.md
+    - title: 量潮课堂
+      children:
+        - file: qtclass/index.md
     - title: 量潮云
       children:
         - file: qtcloud/qtcloud-devops.md
