@@ -1,3 +1,4 @@
+- 移除 qtclass/ 板块（合作方式篇）：最后一篇迁至 profile/qtclass/business/index.md，myst.yml 移除「量潮课堂」章节、README 移除目录行；宣传册不再设课堂板块
 - qtclass/business.md 更名为 index.md：课程档案全部归口 profile 后，合作方式成为宣传册课堂板块唯一入口，补齐板块 index.md；myst.yml 与 README 目录同步
 - 移除 qtclass/course/practise_ladder.md、production-intership.md：原样迁入 profile/qtclass/course/，myst.yml 移除导航；宣传册 qtclass 仅保留 business.md
 - 移除 qtclass/course/index.md（浙理工微专业课程体系详细叙事）：合并至 profile/qtclass/course/index.md，myst.yml 移除导航

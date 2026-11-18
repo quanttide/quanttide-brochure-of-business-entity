@@ -7,4 +7,3 @@
 - **公司简介**：intro/index.md, intro/culture.md
 - **量潮数据**：qtdata/（数据科研服务、who、when、what）
 - **量潮咨询**：qtconsult/（咨询服务）
-- **量潮课堂**：qtclass/（合作方式）
