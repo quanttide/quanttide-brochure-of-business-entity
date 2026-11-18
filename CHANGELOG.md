@@ -1,3 +1,4 @@
+- 扩充 qtclass/public.md 为完整招生文章：采用另一版文章的结构骨架（课程介绍/特色/实践项目/目标/计划/形式价格/招生政策/招生时间/报名方式/关于量潮课堂），只保留已确定事实——补上摆摊游戏真实链接 tycoon.game.quanttide.com、修正报名窗口为每月 20 日至次月 10 日、补回免费学员 1 周内完成并协助带人、VIP 次数时长与阶段计划等未定项标注内测后公布；去除「不是而是」句式与营销腔
 - 新增 qtclass/public.md（社会招生详情）：由 context/qtclass/brochure/public.md 草稿 1-3 整理而来——课程源自学员独立完成的「摆摊游戏」、基础课程 199 / VIP 888、免费 5 人（1 周）与付费 15 人（2 周或 1 个月）、每月一期最多 20 人、12 月首期、报名窗口 11/20–12/10；index.md 补入口链接，myst.yml 与 README 同步
 - 新增 qtclass/index.md（重写）：面向零基础读者的入门介绍——从课堂任务到真实工作的逐渐开放路径、学员独立完成的「摆摊游戏」与氛围编程标准课程招生、适合人群、报名邮箱 class@quanttide.cn；恢复 myst.yml 章节与 README 目录
 - 移除 qtclass/ 板块（合作方式篇）：最后一篇迁至 profile/qtclass/business/index.md，myst.yml 移除「量潮课堂」章节、README 移除目录行；宣传册不再设课堂板块
