@@ -24,7 +24,6 @@ project:
         - file: qtconsult/how.md
     - title: 量潮课堂
       children:
-        - file: qtclass/course/production-intership.md
         - file: qtclass/business.md
     - title: 量潮云
       children:

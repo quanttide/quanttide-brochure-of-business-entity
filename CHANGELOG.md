@@ -1,3 +1,4 @@
+- 移除 qtclass/course/practise_ladder.md、production-intership.md：原样迁入 profile/qtclass/course/，myst.yml 移除导航；宣传册 qtclass 仅保留 business.md
 - 移除 qtclass/course/index.md（浙理工微专业课程体系详细叙事）：合并至 profile/qtclass/course/index.md，myst.yml 移除导航
 - 移除 qtclass/index.md（组织架构与治理口径）：组织管理部分迁至 handbook/qtclass/org.md，双系统与学员分层已由 handbook qtclass/index.md 与 learn/ 覆盖；宣传册 qtclass 仅保留对外三篇
 - 新增 qtclass/business.md：量潮课堂三种合作方式（G 校企合作/B 企业采购/C 个人课时），对外口径统一入口
