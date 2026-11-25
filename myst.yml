@@ -32,7 +32,6 @@ project:
             - file: qtclass/public/vibe-coding-paid.md
             - file: qtclass/public/vibe-creating-free.md
             - file: qtclass/public/vibe-working-free.md
-            - file: qtclass/public/vibe-teaching-free.md
     - title: 量潮云
       children:
         - file: qtcloud/qtcloud-devops.md
