@@ -1,3 +1,4 @@
+- qtclass/public 改名与新增：free.md → vibe-coding-free.md、paid.md → vibe-coding-paid.md（git mv 留史），新增 vibe-creating-free.md（AI创意班免费招募，沿用「你会得到什么 / 如何申请」两节）；myst 入口与 index 引用同步
 - 重构 qtclass/public.md 为 public/ 三页，统一为「你会得到什么 / 如何申请」两节招募文案：index.md 课程介绍与两种参与方式总览；free.md 免费学员招募（对象为在校生、报名通道 11 月 23 日起开放、一周试学三档去向（实训基地录取 / 留作免费学员 / 退出班级）、邮件访谈式申请，标题示例「AI编程+张三」）；paid.md 付费课程报名（基础 199 / VIP 888、无考核一个月到期为止、报名表单从公众号「阅读原文」进入）；qtclass/index.md 链接、myst.yml、README 同步
 - 新增 qtclass/index.md「招生方式」节：社会招生与校企合作两条渠道——自工作手册 org.md 归位仅保留招生与准入，运营职责与共同契约不再保留
 - 调整 qtclass/public.md 对外口径：付费学员（基础课程与 VIP）学习周期统一为 1 个月（免费体验仍为 1 周）；全文移除表格，价格、名额改为文字表述；删除内部管理信息（实训基地与公司归属、固定助教岗位、逐步提高付费比例策略）
