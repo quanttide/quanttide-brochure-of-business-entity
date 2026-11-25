@@ -1,3 +1,4 @@
+- 新增 vibe-working-free.md、vibe-teaching-free.md（AI办公班、AI教学班宣传页）：两班未开班，申请节写明开班时公布窗口与限额、报名按「交成品」验收；myst 入口同步
 - 免费招募两页改申请要求：四问邮件改为「交成品」——按 Lite 第 1 课交上线网址 / 第一张图，正文只写怎么做出来的与卡在哪一步；免费学员不动手是本轮观察到的问题，入口改按结果验收
 - qtclass/public 改名与新增：free.md → vibe-coding-free.md、paid.md → vibe-coding-paid.md（git mv 留史），新增 vibe-creating-free.md（AI创意班免费招募，沿用「你会得到什么 / 如何申请」两节）；myst 入口与 index 引用同步
 - 重构 qtclass/public.md 为 public/ 三页，统一为「你会得到什么 / 如何申请」两节招募文案：index.md 课程介绍与两种参与方式总览；free.md 免费学员招募（对象为在校生、报名通道 11 月 23 日起开放、一周试学三档去向（实训基地录取 / 留作免费学员 / 退出班级）、邮件访谈式申请，标题示例「AI编程+张三」）；paid.md 付费课程报名（基础 199 / VIP 888、无考核一个月到期为止、报名表单从公众号「阅读原文」进入）；qtclass/index.md 链接、myst.yml、README 同步
