@@ -1,3 +1,4 @@
+- 入口页主营业务口径修正（用户裁决：招聘不是业务、云是）：撤「量潮招聘」条，补「量潮云：AI 原生云服务」，与首段四业务口径对齐
 - 归位 context 草稿：default/brochure/product-beta.md（四 Lite 公测公告），入 intro/（myst 入口同步）
 - vibe-working-free 对齐免费页体例：标题补「招募免费学员」，申请节拆为主件成品（加粗）/认真读/一周三分去向三段，行话「底牌」改白话
 - 删除 vibe-teaching-free.md（AI教学下线，学员端已移除，宣传页随之撤下）
