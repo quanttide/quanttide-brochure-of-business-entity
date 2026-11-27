@@ -1,4 +1,4 @@
-- 归位 context 草稿：default/brochure/product-beta.md（四 Lite 公测公告），新建 default/ 板块目录
+- 归位 context 草稿：default/brochure/product-beta.md（四 Lite 公测公告），入 intro/（myst 入口同步）
 - vibe-working-free 对齐免费页体例：标题补「招募免费学员」，申请节拆为主件成品（加粗）/认真读/一周三分去向三段，行话「底牌」改白话
 - 删除 vibe-teaching-free.md（AI教学下线，学员端已移除，宣传页随之撤下）
 - vibe-working-free 改招生中口径：AI办公首期开班（对齐 lite 班级），交付物随新第 1 课改《游戏部门运营简报》（四问+两栏），撤「尚未开班」「现状报告」旧表述

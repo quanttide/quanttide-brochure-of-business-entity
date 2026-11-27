@@ -12,6 +12,7 @@ project:
       children:
         - file: intro/index.md
         - file: intro/culture.md
+        - file: intro/product-beta.md
     - title: 量潮数据
       children:
         - file: qtdata/index.md
